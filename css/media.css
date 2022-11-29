@@ -1,0 +1,487 @@
+@media (max-width: 1400px) {
+    #hero .hero--block img {
+        width: 320px;
+    }
+
+    #hero .hero--modern__img img {
+        width: 90px;
+    }
+
+    #img .img--position {
+        top: 696px;
+        position: absolute;
+        width: 837px;
+    }
+
+    #img .img--special__block--nom {
+        width: 541px;
+    }
+
+}
+
+@media (max-width: 1200px) {
+    #hero .hero--block img {
+        width: 260px;
+    }
+
+    #hero .hero--modern__img img {
+        width: 73px;
+    }
+
+    #comment .comment--img__small {
+        padding: 162px 149px 0 0;
+    }
+
+    #img .img--position {
+        top: 728px;
+        width: 745px;
+    }
+
+    #img {
+        height: 879px;
+    }
+
+    #img .img--special__block--nom {
+        width: 441px;
+    }
+
+    #img .img--special__block--big {
+        width: 169px;
+    }
+
+    #phone .phone--mobile img {
+        height: 499px;
+    }
+
+    #comment .comment--img__small img {
+        width: 309px;
+    }
+}
+
+@media (max-width: 1140px) {
+    #section {
+        height: 889px;
+    }
+
+    #img .img--position {
+        top: 623px;
+    }
+
+    #img .img--special__block--nom {
+        width: 382px;
+    }
+
+    #hero .hero--block img {
+        width: 243px;
+    }
+
+    #hero .hero--svg svg {
+        width: 300px;
+    }
+
+    #hero .hero--modern__img img {
+        width: 69px;
+    }
+
+    #phone .phone--mobile img {
+        height: 449px;
+    }
+
+    #phone .phone--mobile__img2 {
+        margin: 120px 125px 0 125px;
+    }
+}
+
+@media (max-width: 1024px) {
+    #section .section--text {
+        padding-top: 40px;
+    }
+
+    #section .section--text h1 {
+        font-size: 76px;
+    }
+
+    #section .section--text h3 {
+        font-size: 85px;
+    }
+
+    #section .section--line {
+        margin: 45px 0 57px 0;
+    }
+
+    #section .section--link h1 {
+        font-size: 38px;
+    }
+
+    #section .section--link h2 {
+        font-size: 13px;
+        line-height: 18px;
+    }
+
+    #img .img--position {
+        top: 489px;
+    }
+
+    #section {
+        height: 756px;
+    }
+
+    #img .img--position {
+        top: 528px;
+        width: 639px;
+    }
+
+    #img .img--special__block--nom {
+        width: 364px;
+    }
+
+    #img {
+        height: 747px;
+    }
+
+    #hero .hero--name {
+        align-items: center;
+        margin-left: 0;
+    }
+
+    #hero .hero--block img {
+        width: 229px;
+    }
+
+    #hero .hero--modern__img img {
+        width: 59px;
+    }
+
+    #phone {
+        padding-top: 107px;
+    }
+
+    #phone .phone--link h2 {
+        font-size: 12px;
+        line-height: 19px;
+    }
+
+    #phone .phone--mobile img {
+        height: 410px;
+    }
+
+    #phone .phone--mobile {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    #phone .phone--mobile__img2 {
+        margin: 120px 0 0 0;
+    }
+
+    #comment .comment--link h1 {
+        font-size: 45px;
+        line-height: 64px;
+    }
+
+    #comment .comment--link {
+        padding: 50px 0;
+    }
+
+    #comment .comment--img__small img {
+        width: 267px;
+    }
+
+    #comment .comment--img__small {
+        padding: 121px 147px 0 0;
+    }
+}
+
+@media (max-width: 992px) {
+    #img .img--position {
+        position: absolute;
+        width: 837px;
+
+    }
+
+    #section {
+        height: 825px;
+    }
+
+    #img .img--special {
+        justify-content: center;
+        align-items: flex-end;
+    }
+
+    #img {
+        height: 981px;
+    }
+
+    #img .img--special {
+        display: none;
+    }
+
+    #hero .hero--block {
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(4, 1fr);
+        grid-row-gap: 40px;
+    }
+
+    #hero .hero--svg {
+        display: flex;
+        justify-content: center;
+    }
+
+    #hero .hero--block img {
+        width: 410px;
+    }
+
+    #hero .hero--modern {
+        grid-template-columns: repeat(6, 1fr);
+    }
+
+    #hero .hero--modern__img img {
+        width: 100px;
+    }
+
+    #comment .comment--block {
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(3, 1fr);
+    }
+}
+
+@media (max-width: 768px) {
+    #section .section--line {
+        margin: -14px 0 15px 0;
+    }
+
+    #img .img--position {
+        top: 400px;
+        width: 671px;
+    }
+
+    #section {
+        height: 643px;
+    }
+
+    #img {
+        height: 783px;
+    }
+
+    #hero .hero--block img {
+        width: 334px;
+    }
+
+    #hero .hero--svg svg {
+        width: 223px;
+    }
+
+    #hero .hero--modern__img img {
+        width: 87px;
+    }
+
+    #hero .hero--modern {
+        padding: 25px 25px;
+    }
+
+    #phone {
+        padding-top: 15px;
+    }
+
+    #phone .phone--link h2 {
+        margin-left: 0;
+    }
+
+    #comment .comment--img__big {
+        width: 100%;
+    }
+
+    #comment .comment--img__small {
+        padding: 151px 17px 0 0;
+    }
+
+    #comment .comment--link h2 {
+        margin-left: 0;
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    #phone .phone--mobile img {
+        height: 327px;
+    }
+}
+
+@media (max-width: 576px) {
+    #section .section--link {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #section .section--link h2 {
+        margin-left: 100px;
+    }
+
+    #img .img--position {
+        top: 382px;
+        width: 524px;
+    }
+
+    #section {
+        height: 573px;
+    }
+
+    #hero .hero--name h1 {
+        line-height: 60px;
+    }
+
+    #hero .hero--block img {
+        width: 252px;
+    }
+
+    #hero .hero--block {
+        grid-row-gap: 8px;
+    }
+
+    #hero .hero--modern {
+        padding: 20px 20px;
+    }
+
+    #hero .hero--modern__img img {
+        width: 72px;
+    }
+
+    #img {
+        height: 651px;
+    }
+
+    img .img--special__block--nom {
+        width: 0;
+    }
+
+    #phone .phone--mobile img {
+        margin-top: 20px;
+        width: 55%;
+        height: auto;
+    }
+
+    #comment .comment--link h2 {
+        margin-left: 0;
+        font-family: "Roboto", sans-serif;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 22px;
+        color: white;
+    }
+
+    #phone .phone--mobile {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #statistics .statistics {
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(5, 1fr);
+    }
+
+    #statistics .statistics img {
+        width: 90%;
+    }
+
+    #comment .comment--link {
+        display: flex;
+        padding: 50px 0;
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+@media (max-width: 450px) {
+    #section .section--text h1 {
+        font-size: 45px;
+    }
+
+    #section .section--text h3 {
+        font-size: 45px;
+    }
+
+    #section .section--line {
+        margin: 0;
+    }
+
+    #section .section--link h2 {
+        margin-left: 19px;
+        font-size: 12px;
+    }
+
+    #img .img--position {
+        width: 397px;
+    }
+
+    #section {
+        height: 526px;
+    }
+
+    #img {
+        height: 475px;
+    }
+
+    #hero .hero--name h1 {
+        font-size: 36px;
+        line-height: 35px;
+    }
+
+    #hero .hero--name h3 {
+        font-size: 41px;
+    }
+
+    #hero .hero--block {
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(8, 1fr);
+    }
+
+    #hero .hero--block img {
+        width: 399px;
+    }
+
+    #hero .hero--modern {
+        grid-template-columns: repeat(4, 1fr);
+    }
+
+    #hero .hero--modern__img img {
+        width: 80px;
+    }
+
+    #hero .hero--modern__img {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    #phone .phone--link {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    #phone .phone--link svg {
+        margin-left: 0;
+    }
+    #phone .phone--link h1 {
+        font-size: 30px;
+        line-height: 59px;
+    }
+
+    #phone .phone--link h2 {
+        font-size: 10px;
+        line-height: 16px;
+    }
+    #comment .comment--link h2 {
+        font-size: 10px;
+        line-height: 20px;
+    }
+    #comment .comment--img__small img {
+        width: 168px;
+    }
+    #comment .comment--link {
+        padding: 0;
+    }
+    #comment .comment--block {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
