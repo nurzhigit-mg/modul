@@ -56,7 +56,7 @@
 
 #img {
   background: white;
-  height: 994px;
+  height: 1230px;
 }
 #img .img--special {
   display: flex;
@@ -68,7 +68,7 @@
   align-items: start;
 }
 #img .img--special__block--nom {
-  width: 600px;
+  width: 500px;
   z-index: 2;
 }
 #img .img--special__block--big {

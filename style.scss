@@ -56,8 +56,7 @@
 
 #img {
   background: $colorwhite;
-  height: 994px;
-
+  height: 1230px;
   .img {
     &--special {
       display: flex;
@@ -69,7 +68,7 @@
         align-items: start;
 
         &--nom {
-          width: 600px;
+          width: 500px;
           z-index: 2;
         }
 
